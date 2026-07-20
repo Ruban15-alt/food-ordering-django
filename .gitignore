@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual Environment
+venv/
+
+# VS Code
+.vscode/
+
+# Database (optional for learning projects)
+db.sqlite3
+
+# Environment Variables
+.env
